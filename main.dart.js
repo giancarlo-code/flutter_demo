@@ -34169,7 +34169,7 @@ t.push(Y.U5(!1,H.b([new U.b9(r,!1,!0,r,r,r,!1,[s],r,C.k,r,!1,!1,r,C.t)],u.p),"Th
 t.push(new U.lV("",!1,!0,r,r,r,!1,r,C.B,C.k,"",!0,!1,r,C.aS))
 return!1}return!0}}
 F.tw.prototype={
-M:function(a){return new S.mF(new F.mT("Flutter Demo Home Page",null),"Flutter Demo",X.Qp(null,C.kA),null)}}
+M:function(a){return new S.mF(new F.mT("Flutter Demo Home Page Pro",null),"Flutter Demo",X.Qp(null,C.kA),null)}}
 F.mT.prototype={
 aK:function(){return new F.p3(C.o)}}
 F.p3.prototype={
